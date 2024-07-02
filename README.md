@@ -15,9 +15,7 @@
 - 🤔 I’m looking for help with enhancing my skills in full-stack development, particularly in areas like backend integration, advanced React techniques, and optimizing web performance.
   
 - 💬 Ask me about my experience with building responsive web applications, using React for dynamic user interfaces, and implementing backend services with Firebase and Express.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
  ## Daily Streak 
 
