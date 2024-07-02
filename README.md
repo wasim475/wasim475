@@ -1,5 +1,5 @@
 <a href="https://martinheinz.dev/">
-  <img src="https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp" alt="Header" width="800" height="200" />
+  <img src="https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp" alt="Header" width="1200" height="400" />
 </a>
 
 
