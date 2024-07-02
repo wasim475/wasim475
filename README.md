@@ -19,7 +19,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
- ## GitHub Stats
+ ## Daily Streak 
 
 ![Commit Count](https://github-readme-stats.vercel.app/api?username=wasim715&show_icons=true&count_private=true&hide=issues&hide_title=true&include_all_commits=true&custom_title=My%20GitHub%20Commit%20Count)
 
