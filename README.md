@@ -36,7 +36,7 @@
 If you have any questions, suggestions, or feedback, feel free to contact Me.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Wasim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/yourprofile)
-[![Facebook Badge](https://img.shields.io/badge/-Wasim-Hossain-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/wh715/(https://www.facebook.com/wh715/)
+[![Facebook Badge](https://img.shields.io/badge/-wasim-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/visitbdland)](https://www.facebook.com/wh715)
 [![Gmail Badge](https://img.shields.io/badge/-support@visitbdland.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:support@visitbdland.com)](mailto:support@visitbdland.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/yourwhatsapplink)](https://wa.me/yourwhatsapplink)
 [![Website Badge](https://img.shields.io/badge/-visitbdland.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.visitbdland.com)](https://www.visitbdland.com)
