@@ -1,6 +1,4 @@
-<a href="https://martinheinz.dev/">
-  <img src="https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp" alt="Header" width="1200" height="400" />
-</a>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Wasim Hossain</h1>
