@@ -1,4 +1,7 @@
-[![Header](https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp "Header")](https://martinheinz.dev/)
+<a href="https://martinheinz.dev/">
+  <img src="https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp" alt="Header" width="800" height="200" />
+</a>
+
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Wasim Hossain</h1>
 <h3 align="left">I am a web developer</h3>
